@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@rainbow-me/rainbowkit": "^2.2.5",
     "ethers": "^5.7.2",
     "next": "15.3.2",
     "react": "^19.0.0",
